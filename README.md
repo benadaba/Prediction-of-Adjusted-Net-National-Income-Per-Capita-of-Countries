@@ -1,0 +1,5 @@
+# Prediction-of-Adjusted-Net-National-Income-Per-Capita-of-Countries
+Prediction of Adjusted Net National Income Per Capita of Countries<p>
+The purpose of this study was to identify the best predictors for Adjusted Net National Income Per Capita of countries from multiple World Bank development indicators such as Exports of Goods and Services, Food Production Index, Foreign Direct Investment- Net Inflows, Forest Area, Gdp at Market Prices, and Gdp Growth
+As someone who has had a keen interest in the development of countries and the work of the World Bank in helping the development of countries, I will like to find out about the best development factors that will lead to an increase or decrease in the Adjusted Net National Income Per Capita of Countries.  
+Such knowledge will enable countries, governments and stakeholders to make informed decisions and focus on the factors that will help increase their Adjusted Net National Income Per Capita without wasting much time and resources on indicators that do not count much. This, will in effect, help drive forward the development of each country.  
